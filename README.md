@@ -26,7 +26,7 @@ A Computer Science sophomore with a strong foundation in Full-Stack Development,
 
 ---
 
-### 🛠 Active Infrastructure Labs
+### Active Infrastructure Labs
 
 #### ▹ ConcertTicket: Environment Containerization
 * **Objective:** Migrating a legacy manual Laravel/Apache stack into a portable Docker-Compose architecture.
@@ -35,6 +35,6 @@ A Computer Science sophomore with a strong foundation in Full-Stack Development,
 
 ---
 
-### 📫 Connect with Me
-- **Location:** Bangkok, Thailand
-- **Education:** 2nd Year Computer Science
+### Connect with Me
+- **Education:** 2nd Year Computer Science @ Stamford International University, Bangkok, Thailand.
+- **email:** nanghnineiphyu7@gmail.com
