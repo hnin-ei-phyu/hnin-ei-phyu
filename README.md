@@ -1,14 +1,8 @@
 # Hnin Ei Phyu 
-**Computer Science Student | 2nd Year | Aspiring DevOps Engineer**
+**Computer Science Student | 2nd Year**
 *Bangkok, Thailand*
 
 A Computer Science sophomore with a strong foundation in Full-Stack Development, currently specializing in Infrastructure Automation and Containerization. I focus on building reliable, reproducible deployment environments and solving complex systems-level challenges.
-
----
-
-### My DevOps Roadmap (2026)
- **Current Focus:** Transitioning my Full-Stack projects from manual configuration to **Dockerized environments**.
- **The Goal:** Bridging the gap between React/Laravel development and Cloud Infrastructure (AWS).
 
 ---
 
@@ -23,15 +17,6 @@ A Computer Science sophomore with a strong foundation in Full-Stack Development,
 | **Backend Dev** | ![PHP](https://img.shields.io/badge/php-%23777BB3.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Utilities** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
-
----
-
-### Active Infrastructure Labs
-
-#### ▹ ConcertTicket: Environment Containerization
-* **Objective:** Migrating a legacy manual Laravel/Apache stack into a portable Docker-Compose architecture.
-* **Focus:** Automating volume persistence, network isolation, and cross-platform permission handling.
-* **Status:** Active Development. System Analysis, Docker, Linux Administration.
 
 ---
 
